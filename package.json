@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@fluentui/react-components": "^9",
+    "react": "^17",
+    "react-dom": "^17",
+    "react-scripts": "latest"
+  },
+  "name": "nmdw4t",
+  "description": null,
+  "version": "0.0.1",
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
